@@ -1,5 +1,6 @@
-untrusted comment: verify with /etc/ports/pine64-arm64.pub
-RWSDgDgY2KszEY0rxNeavUNUChhOZrPLfVM7FEKTGfURO54IMSDzfSvyL6X/aqdNStPAFCqunuMFZTJbJQKUbfnvLB06BTSHnA8=
-SHA256 (Pkgfile) = 2ec4a98eeeaac2390a1241760344b982e4842fa1bbab1b15102ce7515f1df386
-SHA256 (pkgutils-5.40.10.tar.xz) = 2d86335be3d0452dcc7ae5f568e7296cd7ea80117f57646d15420a6dc192f174
-SHA256 (pkgmk.conf) = 1672e9effc063d1ab4fc9a5eb01021e111846474d20b0be6776921d3485b0d1e
+untrusted comment: verify with /etc/ports/pine64-arm.pub
+RWSDgDgY2KszETDvEL4aZpGK7S6ohfVUQPsYjovlZ/ER/fNjJnZUfxvd3kj0i9fIkrsTpWXf9JhZeaQtD61BUQUUXNM2Xnjjfww=
+SHA256 (Pkgfile) = def07be96d74a4f5d2df54acd0a0f0c48f5c25b4845196abffd1d886337bc59d
+SHA256 (.footprint) = 7d143f18f63bba5569d729eefd0d0f04ae4b0539f8bd71f9cfd6955b9e7c639d
+SHA256 (pkgutils-5.40.11.tar.xz) = 926f98704e72d9dbfae156f60ea26d97a1c7d703a36f3db2f57e553b2bdfacb6
+SHA256 (pkgmk.conf) = 48c7d5faf781bffa5c323bf4e848a02cca774bbbe47b85e8fecf8bed7abf66f9
