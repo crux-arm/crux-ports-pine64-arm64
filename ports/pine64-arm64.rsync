@@ -1,0 +1,3 @@
+host=crux.nu
+collection=crux-arm/pine64-arm64/3.8/
+destination=/usr/ports/pine64-arm64
