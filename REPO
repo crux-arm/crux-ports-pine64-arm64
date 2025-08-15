@@ -1,6 +1,7 @@
 d:pkgutils
 d:ports
 d:prt-get
+f:5a104e1899f8219330c5b57334dbb1d9:pine64-arm64.rsync
 f:0042492fdc70d72b3833f60160e30cf3:pkgutils/.signature
 f:0e1717fd1eeb62d8fce0c23682e9b337:pkgutils/.footprint
 f:9693592850d40079557552217619265b:pkgutils/Pkgfile
@@ -29,5 +30,4 @@ f:077fea960d8a490412eed744ce9bcc40:prt-get/.footprint
 f:0788821c348391504335089dad597c1f:prt-get/prt-get.conf
 f:6f22685708f5f6d2a2b70e6d9b85934c:prt-get/Pkgfile
 f:cb96c46c2cf16e2a2f1f13f29f5faab3:prt-get/README
-f:d0f81c65283ad798bda5331ee9552993:pine64-arm64.httpup
 f:d32239bcb673463ab874e80d47fae504:COPYING
