@@ -1,10 +1,10 @@
-# crux-ports-pine64-arm64
+# pine64-arm64
 
 CRUX-ARM aarch64 ports overlay for Pine64
 
-To use these ports, download the `pine64-arm64.httpup` file to `/etc/ports`:
+To use these ports, download the `pine64-arm64.rsync` file to `/etc/ports`:
 ```
-$ sudo wget -P /etc/ports https://raw.githubusercontent.com/crux-arm/crux-ports-pine64-arm64/3.6/pine64-arm64.httpup
+$ sudo wget -P /etc/ports https://git.crux.nu/crux-arm/pine64-arm64/raw/branch/3.8/pine64-arm64.rsync
 $ sudo ports -u pine64-arm64
 ```
 
